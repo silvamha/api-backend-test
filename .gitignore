@@ -1,0 +1,22 @@
+# Local Netlify folder
+.netlify
+
+# Modules
+node_modules/
+
+# Notes
+notes/
+*.md 
+
+# Secrets
+.env
+
+# MISC
+*.txt
+*.pdf
+*.docx
+*.xls
+
+# Hold working code while testing new code
+*.hold 
+
